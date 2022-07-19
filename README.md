@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Ekaterina and I am a JavaScript Developer
 <br />
-🔎 Reach me here to get a nice colleague, mate or friend:
+🔎 Reach me out to get a nice colleague, mate or friend:
 <br />
 <a href="https://t.me/katealterego">
   <img alt="Barsukova | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
