@@ -8,7 +8,7 @@
 <a href="mailto:barsukova.ekat@gmail.com">
   <img alt="Barsukova | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mail_ValeJappo.png/640px-Mail_ValeJappo.png" />
 </a>
-
+<br />
 <br />
 ⚡ My Technology stack:
 <br />
