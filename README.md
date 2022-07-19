@@ -2,12 +2,11 @@
 <br />
 🔎 Reach me here to get a nice colleague, mate or friend:
 <br />
-<br />
 <a href="https://t.me/katealterego">
-  <img align="left" alt="Barsukova | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
+  <img alt="Barsukova | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
 <a href="mailto:barsukova.ekat@gmail.com">
-  <img align="left" alt="Barsukova | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mail_ValeJappo.png/640px-Mail_ValeJappo.png" />
+  <img alt="Barsukova | Mail" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mail_ValeJappo.png/640px-Mail_ValeJappo.png" />
 </a>
 
 <br />
