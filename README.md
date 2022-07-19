@@ -1,7 +1,7 @@
 ### Hi there 👋 my name is Ekaterina and I am a JavaScript Developer
 
 🔎 Reach me here to get a nice colleague, mate or friend:
-
+<br />
 <a href="https://t.me/katealterego">
   <img align="left" alt="Barsukova | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
@@ -12,6 +12,7 @@
 <br />
 
 ⚡ My Technology stack:
+<br />
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)&nbsp;
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/) &nbsp;
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)&nbsp;
@@ -32,5 +33,5 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-f9fbfa?logo=PostgreSQL&style=for-the-badge)](https://www.postgresql.org/)
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
-
+<br />
 🧠 I’m currently serching for a job
