@@ -1,6 +1,4 @@
 ### Hi there 👋 my name is Ekaterina and I am a JavaScript Developer
-
-
 <br/>
 <br/>
 
