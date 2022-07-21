@@ -2,6 +2,16 @@
 
 🔎 Reach me out to get a nice colleague, mate or friend:
 <br />
+
+[<img align="left" alt="alterkate | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
+[<img align="left" alt="alterkate | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+
+[linkedin]: www.linkedin.com/in/ekaterina-barsukova
+[telegram]: https://t.me/katealterego 
+
+<br/>
+<br/>
+
 <a href="https://t.me/katealterego">
   <img alt="Barsukova | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
