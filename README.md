@@ -35,3 +35,5 @@
 
 <br />
 🧠 I’m currently serching for a job
+
+[![Ekaterina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alterkate)](https://github.com/alterkate/github-readme-stats)
