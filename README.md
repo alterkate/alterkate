@@ -6,7 +6,7 @@
 [<img align="left" alt="alterkate | LinkedIn" width="40px" src="https://img.icons8.com/color/48/000000/linkedin-2--v1.png" />][linkedin]
 [<img align="left" alt="alterkate | Telegram" width="40px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 
-[linkedin]: www.linkedin.com/in/ekaterina-barsukova
+[linkedin]: https://linkedin.com/in/ekaterina-barsukova
 [telegram]: https://t.me/katealterego 
 
 <br/>
