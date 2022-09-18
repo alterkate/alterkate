@@ -36,9 +36,7 @@
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Sequelize](https://img.shields.io/badge/-Sequelize-f9fbfa?logo=Sequelize&style=for-the-badge)](https://sequelize.org/master/)
 
-<br />
 
-[![Ekaterina's GitHub stats](https://github-readme-stats.vercel.app/api?username=alterkate&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/alterkate/github-readme-stats)
 
 <br />
 🧠 I’m currently serching for a job
